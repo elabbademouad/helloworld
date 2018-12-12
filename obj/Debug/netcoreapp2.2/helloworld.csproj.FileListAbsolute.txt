@@ -1,0 +1,14 @@
+/home/elabbademouad/app/helloworld/bin/Debug/netcoreapp2.2/helloworld.deps.json
+/home/elabbademouad/app/helloworld/bin/Debug/netcoreapp2.2/helloworld.runtimeconfig.json
+/home/elabbademouad/app/helloworld/bin/Debug/netcoreapp2.2/helloworld.runtimeconfig.dev.json
+/home/elabbademouad/app/helloworld/bin/Debug/netcoreapp2.2/helloworld.dll
+/home/elabbademouad/app/helloworld/bin/Debug/netcoreapp2.2/helloworld.pdb
+/home/elabbademouad/app/helloworld/obj/Debug/netcoreapp2.2/helloworld.csprojAssemblyReference.cache
+/home/elabbademouad/app/helloworld/obj/Debug/netcoreapp2.2/helloworld.csproj.CoreCompileInputs.cache
+/home/elabbademouad/app/helloworld/obj/Debug/netcoreapp2.2/helloworld.RazorAssemblyInfo.cache
+/home/elabbademouad/app/helloworld/obj/Debug/netcoreapp2.2/helloworld.RazorAssemblyInfo.cs
+/home/elabbademouad/app/helloworld/obj/Debug/netcoreapp2.2/helloworld.AssemblyInfoInputs.cache
+/home/elabbademouad/app/helloworld/obj/Debug/netcoreapp2.2/helloworld.AssemblyInfo.cs
+/home/elabbademouad/app/helloworld/obj/Debug/netcoreapp2.2/helloworld.RazorTargetAssemblyInfo.cache
+/home/elabbademouad/app/helloworld/obj/Debug/netcoreapp2.2/helloworld.dll
+/home/elabbademouad/app/helloworld/obj/Debug/netcoreapp2.2/helloworld.pdb
